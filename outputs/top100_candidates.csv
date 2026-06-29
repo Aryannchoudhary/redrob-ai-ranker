@@ -1,0 +1,1061 @@
+candidate_id,candidate_text,similarity_score,cross_score
+CAND_0098952,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 5.5 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at CRED. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+Senior Software Engineer (ML) at Rephrase.ai. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+Airflow, Recommendation Systems, Statistical Modeling, Redis, Object Detection, QLoRA, OpenSearch, TTS, Spring Boot, scikit-learn, Feature Engineering, Semantic Search, Diffusion Models, Prompt Engineering, NLP, Reinforcement Learning, Python
+Education: M.Sc Computer Science",0.71912044,-2.7177498
+CAND_0052400,"Current title: Computer Vision Engineer
+Summary: Data scientist / ML engineer with 3.6 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Computer Vision Engineer at Haptik. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+Senior Software Engineer (ML) at Genpact AI. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+
+Skills:
+PEFT, TTS, YOLO, Python, Recommendation Systems, GANs, NLP, Prompt Engineering, JavaScript, Semantic Search, Reinforcement Learning, Computer Vision, Kubeflow, TensorFlow, pgvector
+Education: M.S. Information Technology",0.6880493,-3.030254
+CAND_0058152,"Current title: Data Scientist
+Summary: Data scientist / ML engineer with 3.6 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Data Scientist at Flipkart. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Senior Software Engineer (ML) at Yellow.ai. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+Snowflake, Reinforcement Learning, Recommendation Systems, Speech Recognition, OpenCV, Milvus, Tally, LoRA, PyTorch, dbt, QLoRA, OpenSearch, Diffusion Models, Deep Learning, BentoML, Java
+Education: M.Tech Computer Engineering
+Education: B.Tech Computer Science",0.7442037,-3.0619042
+CAND_0076412,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 5.8 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Wysa. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+Senior Software Engineer (ML) at Aganitha. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+
+Skills:
+Agile, GANs, Hugging Face Transformers, Semantic Search, Deep Learning, Computer Vision, TTS, MLOps, Diffusion Models, Pinecone, Machine Learning, Data Science, Python, Next.js, Speech Recognition, scikit-learn, CNN
+Education: M.E. Machine Learning",0.7104142,-3.2233007
+CAND_0067403,"Current title: Junior ML Engineer
+Summary: Data scientist / ML engineer with 4.6 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Junior ML Engineer at Unacademy. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Research Engineer at Flipkart. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+CSS, Feature Engineering, Apache Flink, MLOps, Weights & Biases, Qdrant, RAG, Statistical Modeling, pgvector, LlamaIndex, TypeScript, Sentence Transformers
+Education: M.Tech Computer Engineering
+Education: M.E. Information Technology",0.7142223,-3.3770359
+CAND_0033987,"Current title: ML Engineer
+Summary: Data scientist / ML engineer with 6.8 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+ML Engineer at Wysa. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+Senior Software Engineer (ML) at Rephrase.ai. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Data Scientist at Paytm. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+
+Skills:
+Recommendation Systems, Feature Engineering, PEFT, Kubeflow, Image Classification, Node.js, Haystack, PowerPoint, Deep Learning, Fine-tuning LLMs, FAISS, Learning to Rank, Statistical Modeling
+Education: M.Sc Artificial Intelligence",0.69979995,-3.4301941
+CAND_0076995,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 4.4 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Haptik. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Specialist at Rephrase.ai. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+
+Skills:
+Time Series, Docker, Image Classification, Speech Recognition, TensorFlow, Reinforcement Learning, LlamaIndex, Semantic Search, scikit-learn, NLP, Prompt Engineering, Data Pipelines, Diffusion Models, PEFT, ASR
+Education: M.S. Mechanical Engineering
+Education: B.Sc Chemical Engineering",0.7024363,-3.4452794
+CAND_0021827,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 4.4 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. Most of my recent work has been on predictive modeling for customer-facing problems — churn, conversion, lifetime value. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Unacademy. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Research Engineer at Rephrase.ai. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+
+Skills:
+Diffusion Models, Object Detection, scikit-learn, Webpack, Time Series, Forecasting, Embeddings, TTS, Elasticsearch, Speech Recognition, Weights & Biases, Weaviate, Illustrator, Data Science
+Education: M.Tech Artificial Intelligence",0.7080027,-3.4961023
+CAND_0049978,"Current title: Senior Software Engineer (ML)
+Summary: Data scientist / ML engineer with 6.6 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Senior Software Engineer (ML) at Sarvam AI. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Research Engineer at Wysa. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+
+Skills:
+Deep Learning, Weaviate, BM25, GANs, LoRA, BentoML, Recommendation Systems, YOLO, PyTorch, ASR, BigQuery, Hugging Face Transformers, SQL, MLflow, Embeddings, Diffusion Models
+Education: B.E. Physics",0.6961518,-3.5693488
+CAND_0084681,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 3.5 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. Most of my recent work has been on predictive modeling for customer-facing problems — churn, conversion, lifetime value. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Zomato. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Research Engineer at upGrad. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+Databricks, Fine-tuning LLMs, Python, GANs, Learning to Rank, Information Retrieval, Computer Vision, Data Pipelines, Object Detection, dbt, Vector Search, CNN, PEFT, NLP
+Education: M.Tech Computer Science",0.734335,-3.619651
+CAND_0064331,"Current title: Senior Software Engineer (ML)
+Summary: Data scientist / ML engineer with 4.2 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Senior Software Engineer (ML) at Swiggy. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Research Engineer at Flipkart. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+
+Skills:
+LLMs, BentoML, Forecasting, Data Science, TensorFlow, YOLO, Learning to Rank, Image Classification, dbt, Deep Learning, Information Retrieval, Photoshop, Fine-tuning LLMs, Sentence Transformers, OpenSearch
+Education: M.E. Artificial Intelligence
+Education: B.Sc Data Science",0.71627784,-3.6705122
+CAND_0074325,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 3.9 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Haptik. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Senior Software Engineer (ML) at Glance. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+
+Skills:
+NLP, Milvus, BentoML, OpenSearch, Deep Learning, Sentence Transformers, LangChain, GANs, SEO, Java, Pinecone, Learning to Rank, Diffusion Models, Photoshop, CNN
+Education: B.Tech MBA",0.6938932,-3.6788874
+CAND_0088025,"Current title: Staff Machine Learning Engineer
+Summary: Senior AI engineer with 8.6 years of hands-on experience building production ML systems, with a focus on search, retrieval, and ranking. Most recently, I designed the company's first hybrid retrieval system combining BM25 with dense vector recall, serving 50M+ queries per month. My day-to-day work spans embedding model selection and fine-tuning, hybrid retrieval architecture, learning-to-rank, behavioral-signal integration, and the offline/online evaluation that ties it all together. I've shipped systems in both early-stage product companies and at larger scale, and I've spent enough time on both that I know which tradeoffs apply where. I'm comfortable across the stack from infra to algorithms, but my heart is in retrieval and ranking. Currently exploring my next move — looking for senior IC or tech-lead roles where I can own the intelligence layer end-to-end.
+
+Experience:
+Staff Machine Learning Engineer at Yellow.ai. Owned the end-to-end ranking pipeline at a recommendations-heavy consumer product: candidate sourcing → embedding generation (using a fine-tuned BGE-large) → Pinecone retrieval → learning-to-rank re-scoring (XGBoost) → behavioral-signal integration. The hardest part wasn't the ML — it was the evaluation: building offline metrics that actually predicted what the recommendation would do to live engagement. After three iterations we landed on a calibration approach using simulated A/B tests that has held up over the last 18 months.
+Staff Machine Learning Engineer at Niramai. Owned the end-to-end ranking pipeline at a recommendations-heavy consumer product: candidate sourcing → embedding generation (using a fine-tuned BGE-large) → Pinecone retrieval → learning-to-rank re-scoring (XGBoost) → behavioral-signal integration. The hardest part wasn't the ML — it was the evaluation: building offline metrics that actually predicted what the recommendation would do to live engagement. After three iterations we landed on a calibration approach using simulated A/B tests that has held up over the last 18 months.
+Senior Machine Learning Engineer at Genpact AI. Led the migration from keyword-based to embedding-based search across a 30M+ candidate corpus over 8 months. Designed three successive ranker variants and ran them in A/B testing alongside the legacy keyword system. The final embedding ranker improved recruiter engagement metrics by 24% and reduced the average time-to-shortlist by 38%. Most of the engineering effort went into the boring infrastructure: index versioning, embedding versioning, rollback paths, and the dashboards that let recruiters trust the new system. Mentored two junior engineers through this rollout.
+
+Skills:
+Pinecone, QLoRA, LLMs, Hugging Face Transformers, RAG, SAP, TensorFlow, LoRA, Flask, Prompt Engineering, BM25, Elasticsearch, MLOps, pgvector, Learning to Rank, Deep Learning, Python, NLP, YOLO
+Education: Ph.D Data Science",0.6899947,-3.6894634
+CAND_0093401,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 6.0 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Haptik. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+Computer Vision Engineer at Saarthi.ai. Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+AI Specialist at Rephrase.ai. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+
+Skills:
+LangChain, Reinforcement Learning, Embeddings, Statistical Modeling, LoRA, Diffusion Models, BigQuery, Machine Learning, React, NLP, Weights & Biases, Semantic Search
+Education: B.Sc Computer Science",0.6968924,-3.693148
+CAND_0016170,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 6.8 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Dream11. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Data Scientist at Krutrim. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+Data Scientist at Infosys. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+
+Skills:
+Sentence Transformers, Reinforcement Learning, Time Series, PostgreSQL, Embeddings, Kubeflow, Kafka, LangChain, Prompt Engineering, RAG, BentoML, Accounting, Hugging Face Transformers, Computer Vision
+Education: B.E. Computer Engineering",0.72255087,-3.697759
+CAND_0052712,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 3.1 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Verloop.io. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+AI Research Engineer at Observe.AI. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+
+Skills:
+Computer Vision, Hugging Face Transformers, Data Science, Spring Boot, LoRA, NLP, Kubernetes, MLflow, Weights & Biases, Photoshop, Embeddings, Time Series, Fine-tuning LLMs, Terraform
+Education: B.Sc Computer Engineering
+Education: M.E. Commerce",0.7030966,-3.7405484
+CAND_0095884,"Current title: Senior Software Engineer (ML)
+Summary: Data scientist / ML engineer with 3.8 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. Looking for a role where I can step up to more end-to-end ownership of ML systems, not just modeling.
+
+Experience:
+Senior Software Engineer (ML) at Sarvam AI. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Research Engineer at Saarthi.ai. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+
+Skills:
+Forecasting, Statistical Modeling, YOLO, FAISS, RAG, BentoML, gRPC, Machine Learning, Python, Pinecone, BM25, MLflow, QLoRA, Fine-tuning LLMs, Feature Engineering, GANs, Angular, ASR
+Education: Ph.D Chemical Engineering",0.7037056,-3.7444203
+CAND_0001302,"Current title: Computer Vision Engineer
+Summary: Data scientist / ML engineer with 5.8 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Computer Vision Engineer at Paytm. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+AI Research Engineer at Observe.AI. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Data Scientist at Unacademy. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+
+Skills:
+Time Series, Rust, Computer Vision, Diffusion Models, Learning to Rank, Python, OpenSearch, Forecasting, Kubeflow, TensorFlow, MLflow, ASR, CNN, scikit-learn, Accounting
+Education: M.S. Computer Engineering",0.6825515,-3.773413
+CAND_0022852,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 5.4 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. Most of my recent work has been on predictive modeling for customer-facing problems — churn, conversion, lifetime value. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Zomato. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Specialist at Dream11. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+Junior ML Engineer at Locobuzz. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+
+Skills:
+TensorFlow, Pinecone, Python, Diffusion Models, Haystack, Kubernetes, Prompt Engineering, QLoRA, Docker, OpenCV, PEFT, Scrum, Kubeflow, gRPC, Weights & Biases
+Education: B.E. Computer Engineering
+Education: B.Tech Computer Engineering",0.71588516,-3.7871156
+CAND_0096104,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 7.0 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Yellow.ai. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Junior ML Engineer at Paytm. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+BM25, TTS, Hugging Face Transformers, MLOps, CI/CD, Pinecone, Semantic Search, ASR, PEFT, Redux, Data Science
+Education: B.E. Data Science
+Education: Ph.D Machine Learning",0.7195763,-3.7988966
+CAND_0000273,"Current title: ML Engineer
+Summary: Data scientist / ML engineer with 5.8 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. Most of my recent work has been on predictive modeling for customer-facing problems — churn, conversion, lifetime value. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role — closer to retrieval, LLMs, and modern ranking systems.
+
+Experience:
+ML Engineer at BYJU'S. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Senior Software Engineer (ML) at Yellow.ai. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+TTS, Forecasting, Spring Boot, Fine-tuning LLMs, Feature Engineering, Diffusion Models, Redis, Qdrant, Project Management, LlamaIndex, Scrum, BentoML, Weights & Biases, Object Detection, Time Series, Learning to Rank
+Education: M.E. Electrical Engineering
+Education: B.Tech Chemical Engineering",0.7311511,-3.8091464
+CAND_0095042,"Current title: Senior Software Engineer (ML)
+Summary: Data scientist / ML engineer with 5.1 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Senior Software Engineer (ML) at BYJU'S. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+AI Research Engineer at Yellow.ai. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+Fine-tuning LLMs, GANs, LlamaIndex, PEFT, Prompt Engineering, OpenCV, LLMs, Hadoop, Apache Flink, Spring Boot, Data Science, Object Detection
+Education: M.Tech Civil Engineering
+Education: M.Tech Machine Learning",0.71232903,-3.8251548
+CAND_0082913,"Current title: Senior Software Engineer (ML)
+Summary: Data scientist / ML engineer with 5.5 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Senior Software Engineer (ML) at InMobi. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Specialist at Ola. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+YOLO, FAISS, CSS, BentoML, LoRA, scikit-learn, Object Detection, MLOps, OpenCV, LLMs, Speech Recognition, TensorFlow, Elasticsearch, Deep Learning
+Education: B.Sc Artificial Intelligence",0.73273575,-3.8282921
+CAND_0004848,"Current title: Junior ML Engineer
+Summary: Data scientist / ML engineer with 5.7 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Junior ML Engineer at Freshworks. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+AI Research Engineer at Haptik. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+
+Skills:
+PEFT, Image Classification, CSS, Prompt Engineering, Time Series, Data Science, Object Detection, GANs, BM25, Pinecone, ASR, Weaviate
+Education: B.Sc Computer Engineering
+Education: M.Sc Data Science",0.6850564,-3.8451433
+CAND_0013122,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 4.3 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Unacademy. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Junior ML Engineer at Nykaa. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+Figma, MLOps, GANs, Spring Boot, LoRA, PostgreSQL, QLoRA, Weights & Biases, Feature Engineering, MLflow, NLP, Kubeflow, Forecasting, Time Series, Deep Learning
+Education: M.S. Computer Science",0.72520626,-3.8551533
+CAND_0045862,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 6.7 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. Most of my recent work has been on predictive modeling for customer-facing problems — churn, conversion, lifetime value. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Yellow.ai. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Computer Vision Engineer at Paytm. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+Computer Vision Engineer at PolicyBazaar. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+Data Scientist at Unacademy. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+
+Skills:
+NLP, Feature Engineering, MLflow, Haystack, Computer Vision, Recommendation Systems, BentoML, Fine-tuning LLMs, LlamaIndex, Illustrator, GraphQL, Vector Search, LoRA
+Education: B.Tech Computer Science",0.7255529,-3.8642507
+CAND_0079550,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 3.9 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Zomato. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+AI Specialist at Wipro. Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+
+Skills:
+Kubeflow, Information Retrieval, CNN, JavaScript, Accounting, Deep Learning, MLflow, Object Detection, Fine-tuning LLMs, Python
+Education: M.S. Artificial Intelligence",0.7251488,-3.8700283
+CAND_0023215,"Current title: Junior ML Engineer
+Summary: Data scientist / ML engineer with 4.4 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. Most of my recent work has been on predictive modeling for customer-facing problems — churn, conversion, lifetime value. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role — closer to retrieval, LLMs, and modern ranking systems.
+
+Experience:
+Junior ML Engineer at Verloop.io. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Senior Software Engineer (ML) at Observe.AI. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+AI Specialist at BYJU'S. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+
+Skills:
+Statistical Modeling, Forecasting, Haystack, Kubeflow, QLoRA, OpenCV, Data Science, Six Sigma, dbt, Information Retrieval, Figma, MLflow, LLMs, CNN, Prompt Engineering, Speech Recognition, Hugging Face Transformers, CI/CD
+Education: B.E. Information Technology",0.71475506,-3.8878524
+CAND_0097472,"Current title: Junior ML Engineer
+Summary: Data scientist / ML engineer with 5.8 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Junior ML Engineer at Flipkart. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Specialist at InMobi. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+
+Skills:
+PyTorch, OpenCV, Deep Learning, Forecasting, BentoML, CNN, YOLO, LangChain, HTML, Python, Feature Engineering, TTS, Information Retrieval
+Education: Ph.D Machine Learning",0.7055992,-3.8918297
+CAND_0015543,"Current title: ML Engineer
+Summary: Data scientist / ML engineer with 3.1 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+ML Engineer at upGrad. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+AI Specialist at Locobuzz. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+
+Skills:
+scikit-learn, Computer Vision, GraphQL, Accounting, FAISS, YOLO, CI/CD, Data Science, ASR, Deep Learning, Reinforcement Learning, Haystack, RAG, Kubernetes, Prompt Engineering, MLOps, LangChain, NLP
+Education: B.Sc Machine Learning",0.68659425,-3.9343722
+CAND_0097896,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 4.8 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. Most of my recent work has been on predictive modeling for customer-facing problems — churn, conversion, lifetime value. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at upGrad. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Research Engineer at Locobuzz. Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+ML Engineer at Locobuzz. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+YOLO, Information Retrieval, Tally, Milvus, Statistical Modeling, Fine-tuning LLMs, Weights & Biases, Hugging Face Transformers, HTML, Feature Engineering, Time Series, GANs, Qdrant, Figma, Vector Search, scikit-learn, Sentence Transformers
+Education: Ph.D Data Science",0.7179112,-3.9545026
+CAND_0036484,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 5.7 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at InMobi. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+AI Research Engineer at Niramai. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+
+Skills:
+Statistical Modeling, Image Classification, Qdrant, Machine Learning, Recommendation Systems, Prompt Engineering, Milvus, TensorFlow, Kubeflow, OpenSearch, Object Detection, Angular, MLOps
+Education: B.Tech Information Technology
+Education: Ph.D Artificial Intelligence",0.6943942,-3.9706597
+CAND_0043125,"Current title: Senior Software Engineer (ML)
+Summary: Data scientist / ML engineer with 5.3 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Senior Software Engineer (ML) at Rephrase.ai. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+AI Specialist at PolicyBazaar. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+HTML, BentoML, Reinforcement Learning, Image Classification, Data Science, Sentence Transformers, Statistical Modeling, Databricks, MLOps, Information Retrieval, Learning to Rank, LLMs
+Education: B.Tech Computer Science
+Education: Ph.D Information Technology",0.6988882,-4.0017633
+CAND_0091229,"Current title: Senior Software Engineer (ML)
+Summary: Data scientist / ML engineer with 7.0 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Senior Software Engineer (ML) at Niramai. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+AI Specialist at BYJU'S. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+Computer Vision Engineer at Locobuzz. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+Redis, FAISS, OpenCV, Snowflake, Elasticsearch, scikit-learn, YOLO, Image Classification, Microservices, Qdrant, Next.js, TensorFlow, Weights & Biases, Kubeflow, BentoML
+Education: B.Sc Electrical Engineering",0.7137996,-4.019473
+CAND_0029439,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 6.4 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Mad Street Den. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+Senior Software Engineer (ML) at upGrad. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+QLoRA, Spark, Hugging Face Transformers, Feature Engineering, ASR, NLP, Redux, TTS, Machine Learning, Microservices, Fine-tuning LLMs, MLOps, Qdrant, Pinecone, Speech Recognition, Marketing, Forecasting, BentoML
+Education: Ph.D Electronics",0.723834,-4.025735
+CAND_0042441,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 4.1 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Nykaa. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+Data Scientist at PharmEasy. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+Illustrator, Feature Engineering, Sentence Transformers, Reinforcement Learning, RAG, BentoML, Semantic Search, FAISS, ASR, Data Science, Vector Search, LangChain, Qdrant, Diffusion Models
+Education: Ph.D Data Science
+Education: Ph.D Information Technology",0.68854654,-4.0358367
+CAND_0087804,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 4.1 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Rephrase.ai. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+AI Specialist at Verloop.io. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+
+Skills:
+Python, Haystack, FAISS, ASR, Webpack, Vue.js, QLoRA, Computer Vision, Elasticsearch, Information Retrieval, OpenSearch, Diffusion Models, Feature Engineering, Forecasting
+Education: B.E. Machine Learning",0.6808885,-4.0511656
+CAND_0020845,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 7.0 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Swiggy. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+AI Specialist at Wysa. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+Senior Software Engineer (ML) at Observe.AI. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+AI Specialist at Wipro. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+
+Skills:
+Pinecone, Reinforcement Learning, ASR, Milvus, Snowflake, Marketing, Kubernetes, GANs, Computer Vision, Forecasting, OpenCV, Weights & Biases, Speech Recognition, Elasticsearch, Six Sigma, scikit-learn, Machine Learning
+Education: B.Sc Computer Science",0.6925477,-4.063459
+CAND_0077261,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 5.7 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Meesho. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+Senior Software Engineer (ML) at upGrad. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+
+Skills:
+Time Series, Hugging Face Transformers, Statistical Modeling, BentoML, Reinforcement Learning, Data Science, TTS, Agile, pgvector, LoRA, ASR, Vector Search, RAG, Recommendation Systems, TensorFlow, Object Detection, gRPC
+Education: B.E. Computer Science",0.6970191,-4.065543
+CAND_0059520,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 4.3 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. Most of my recent work has been on predictive modeling for customer-facing problems — churn, conversion, lifetime value. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Krutrim. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+AI Research Engineer at Sarvam AI. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+Computer Vision Engineer at Swiggy. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+
+Skills:
+pgvector, PyTorch, SQL, Snowflake, Data Science, Statistical Modeling, LangChain, MLflow, Tailwind, Reinforcement Learning, Agile, Time Series, YOLO, BentoML, Prompt Engineering, BM25
+Education: Ph.D Civil Engineering
+Education: M.E. Machine Learning",0.68971074,-4.0689235
+CAND_0061175,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 6.7 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Haptik. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Junior ML Engineer at Mad Street Den. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Data Scientist at Haptik. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+
+Skills:
+Python, Milvus, Recommendation Systems, Vector Search, LlamaIndex, Azure, MLOps, Data Science, TTS, Speech Recognition, Qdrant, Sales, Sentence Transformers
+Education: M.E. Machine Learning",0.71106005,-4.0798664
+CAND_0025923,"Current title: Senior Software Engineer (ML)
+Summary: Data scientist / ML engineer with 5.0 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Senior Software Engineer (ML) at HCL. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+AI Specialist at Krutrim. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+
+Skills:
+TTS, Reinforcement Learning, Speech Recognition, pgvector, Data Science, Qdrant, MLflow, Kubeflow, dbt, RAG, Pinecone, Scrum
+Education: M.Sc Artificial Intelligence",0.7056768,-4.0964293
+CAND_0046108,"Current title: ML Engineer
+Summary: Data scientist / ML engineer with 3.6 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. Most of my recent work has been on predictive modeling for customer-facing problems — churn, conversion, lifetime value. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+ML Engineer at CRED. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Research Engineer at Saarthi.ai. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+
+Skills:
+Reinforcement Learning, BM25, OpenCV, Diffusion Models, Qdrant, LangChain, JavaScript, Image Classification, CSS, NLP, Kubeflow, Milvus, Object Detection, Salesforce CRM, QLoRA, PostgreSQL, Statistical Modeling, Computer Vision, Prompt Engineering, LLMs
+Education: Ph.D Data Science",0.6837351,-4.096577
+CAND_0057162,"Current title: ML Engineer
+Summary: Data scientist / ML engineer with 4.2 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+ML Engineer at Genpact AI. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+AI Specialist at Niramai. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+RAG, Time Series, Machine Learning, LLMs, Forecasting, Speech Recognition, FAISS, Data Science, Diffusion Models, Sentence Transformers, QLoRA, CNN, TypeScript, OpenSearch, GANs
+Education: M.E. Information Technology",0.6958393,-4.0988297
+CAND_0028908,"Current title: Junior ML Engineer
+Summary: Data scientist / ML engineer with 3.1 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Junior ML Engineer at Sarvam AI. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+Learning to Rank, Forecasting, OpenCV, Tailwind, BentoML, Haystack, Next.js, Reinforcement Learning, Feature Engineering, Flask, Qdrant, ETL, YOLO, ASR, Vector Search, Semantic Search, Diffusion Models, PEFT
+Education: M.Tech Computer Science",0.7073187,-4.104018
+CAND_0015097,"Current title: Senior Software Engineer (ML)
+Summary: Data scientist / ML engineer with 6.0 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Senior Software Engineer (ML) at Zoho. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+AI Research Engineer at Krutrim. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+Speech Recognition, OpenCV, Object Detection, BigQuery, Python, Statistical Modeling, PEFT, NLP, YOLO, LangChain, BentoML, Data Science
+Education: M.E. Chemical Engineering",0.68227243,-4.1155844
+CAND_0092596,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 6.9 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Nykaa. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+AI Specialist at Infosys. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+Data Scientist at HCL. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+
+Skills:
+Statistical Modeling, Deep Learning, NLP, Pinecone, Object Detection, Time Series, React, Data Science, OpenSearch, Speech Recognition, Weights & Biases
+Education: Ph.D Data Science
+Education: B.Sc Data Science",0.6953654,-4.116035
+CAND_0052706,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 5.1 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role — closer to retrieval, LLMs, and modern ranking systems.
+
+Experience:
+AI Research Engineer at Swiggy. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+Senior Software Engineer (ML) at Genpact AI. Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+
+Skills:
+MLflow, Pinecone, scikit-learn, CSS, LoRA, Information Retrieval, MongoDB, Deep Learning, Weaviate, OpenCV, Prompt Engineering, PEFT, Feature Engineering, GANs, MLOps, Spark
+Education: M.E. Machine Learning",0.71520555,-4.1280336
+CAND_0039308,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 5.6 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at BYJU'S. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Computer Vision Engineer at Dream11. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+
+Skills:
+SEO, ASR, Time Series, GANs, TTS, Haystack, LangChain, Kafka, Forecasting, Information Retrieval, Project Management, Python, OpenSearch, Reinforcement Learning, Feature Engineering
+Education: Ph.D Commerce",0.6977248,-4.1471725
+CAND_0067322,"Current title: Data Scientist
+Summary: Data scientist / ML engineer with 4.3 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Data Scientist at Nykaa. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Research Engineer at Niramai. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+
+Skills:
+FAISS, scikit-learn, Forecasting, OpenSearch, Image Classification, Spring Boot, CNN, Qdrant, Kubeflow, Accounting, LLMs, Hugging Face Transformers, Elasticsearch, TTS, dbt, LoRA
+Education: B.Tech Machine Learning",0.69863975,-4.1617265
+CAND_0072232,"Current title: ML Engineer
+Summary: Data scientist / ML engineer with 4.0 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+ML Engineer at Yellow.ai. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Research Engineer at Sarvam AI. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+TensorFlow, Reinforcement Learning, MLflow, PowerPoint, Forecasting, BM25, Statistical Modeling, Diffusion Models, Weights & Biases, Azure, Fine-tuning LLMs, Embeddings, Data Science
+Education: M.E. Information Technology",0.6873938,-4.1655855
+CAND_0024878,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 5.7 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at HCL. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+AI Specialist at Krutrim. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+BM25, pgvector, Databricks, OpenCV, Elasticsearch, gRPC, NLP, Prompt Engineering, Feature Engineering, MLOps, LoRA, Information Retrieval, Tailwind, Kubeflow, PEFT
+Education: B.Tech Computer Science
+Education: B.Tech Artificial Intelligence",0.7096806,-4.166964
+CAND_0023076,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 3.7 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Razorpay. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+
+Skills:
+Learning to Rank, Node.js, Weights & Biases, TypeScript, OpenCV, ETL, SEO, LangChain, LoRA, Feature Engineering, YOLO, LlamaIndex, Kubeflow, Qdrant, Vector Search, BM25
+Education: M.Tech Computer Science",0.6902716,-4.170041
+CAND_0045613,"Current title: Computer Vision Engineer
+Summary: Data scientist / ML engineer with 5.0 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. Most of my recent work has been on predictive modeling for customer-facing problems — churn, conversion, lifetime value. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role — closer to retrieval, LLMs, and modern ranking systems.
+
+Experience:
+Computer Vision Engineer at Saarthi.ai. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Senior Software Engineer (ML) at HCL. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+GANs, Pinecone, SEO, Feature Engineering, SAP, PEFT, BM25, Data Science, CNN, Azure, Information Retrieval, Qdrant, Embeddings, NLP, Time Series, Kubeflow
+Education: M.E. Information Technology
+Education: Ph.D Information Technology",0.7263524,-4.1805196
+CAND_0070653,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 5.0 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Dream11. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+AI Research Engineer at Krutrim. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+BM25, QLoRA, CNN, Hadoop, MLOps, YOLO, FAISS, Apache Flink, PyTorch, Computer Vision, Sentence Transformers, Deep Learning, Kubeflow, Python, Learning to Rank, Data Science
+Education: B.Tech Computer Science
+Education: M.Sc Machine Learning",0.7057145,-4.184697
+CAND_0027218,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 4.7 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. Looking for a role where I can step up to more end-to-end ownership of ML systems, not just modeling.
+
+Experience:
+AI Research Engineer at Paytm. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+Senior Software Engineer (ML) at Yellow.ai. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+Computer Vision Engineer at Locobuzz. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+MLOps, Haystack, Diffusion Models, Fine-tuning LLMs, Object Detection, Deep Learning, Elasticsearch, Semantic Search, Content Writing, Image Classification, YOLO, Information Retrieval, ETL, Tailwind
+Education: B.Sc Data Science
+Education: M.Sc Computer Science",0.68372816,-4.2052236
+CAND_0004402,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 6.0 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Yellow.ai. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Data Scientist at Zomato. Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+
+Skills:
+TypeScript, TTS, OpenSearch, Speech Recognition, Object Detection, Kubeflow, PEFT, PyTorch, BentoML, REST APIs, Learning to Rank, Data Pipelines, Qdrant, Computer Vision, Sentence Transformers, Fine-tuning LLMs
+Education: M.Tech Information Technology
+Education: B.Tech Information Technology",0.7123648,-4.20592
+CAND_0046313,"Current title: Senior Software Engineer (ML)
+Summary: Data scientist / ML engineer with 5.8 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Senior Software Engineer (ML) at Flipkart. Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+AI Specialist at Ola. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+
+Skills:
+YOLO, Fine-tuning LLMs, CNN, LangChain, pgvector, OpenSearch, Weights & Biases, Django, TypeScript, Speech Recognition, ASR, OpenCV, BM25, Kubeflow, Scrum
+Education: M.Sc Machine Learning",0.6856736,-4.2196183
+CAND_0069771,"Current title: Junior ML Engineer
+Summary: Data scientist / ML engineer with 5.7 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Junior ML Engineer at Sarvam AI. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+Computer Vision Engineer at Krutrim. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Computer Vision Engineer at Razorpay. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+Elasticsearch, CNN, LLMs, GANs, FAISS, Image Classification, Django, Statistical Modeling, Time Series, Vector Search, Qdrant, Milvus, Speech Recognition, Feature Engineering
+Education: M.E. Machine Learning",0.6954394,-4.21972
+CAND_0068081,"Current title: Computer Vision Engineer
+Summary: Data scientist / ML engineer with 6.2 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Computer Vision Engineer at Glance. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+AI Specialist at Zoho. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+BM25, Pinecone, Redis, Weights & Biases, Milvus, Feature Engineering, GANs, FastAPI, Elasticsearch, OpenSearch, Python, PyTorch, BentoML, LLMs, HTML, Statistical Modeling, TTS, MLflow, BigQuery
+Education: B.Sc Civil Engineering
+Education: B.Tech Statistics",0.6830523,-4.2231364
+CAND_0025046,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 6.7 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Genpact AI. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+AI Research Engineer at Zomato. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+Computer Vision Engineer at Glance. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+ML Engineer at HCL. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+
+Skills:
+Statistical Modeling, RAG, Webpack, Object Detection, YOLO, Redis, TTS, GANs, ASR, Embeddings, Recommendation Systems, Semantic Search, Feature Engineering, Six Sigma
+Education: Ph.D Machine Learning",0.68708813,-4.2235236
+CAND_0065139,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 5.2 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Niramai. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+Senior Software Engineer (ML) at Unacademy. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+Computer Vision Engineer at Yellow.ai. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+
+Skills:
+MLOps, Apache Beam, CNN, Speech Recognition, Statistical Modeling, Hugging Face Transformers, Accounting, QLoRA, RAG, GANs, ASR, Node.js, Semantic Search, LangChain, PyTorch, Kubeflow, LoRA, Computer Vision
+Education: M.Sc Computer Science
+Education: B.Sc Data Science",0.68765867,-4.234271
+CAND_0048375,"Current title: Computer Vision Engineer
+Summary: Data scientist / ML engineer with 4.4 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role — closer to retrieval, LLMs, and modern ranking systems.
+
+Experience:
+Computer Vision Engineer at Saarthi.ai. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+AI Research Engineer at Rephrase.ai. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+Weights & Biases, Weaviate, Reinforcement Learning, Python, Semantic Search, Information Retrieval, Hugging Face Transformers, Django, Pinecone, Feature Engineering, BentoML
+Education: Ph.D Mathematics",0.6965774,-4.247987
+CAND_0075138,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 4.6 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Infosys. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+AI Research Engineer at InMobi. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+Junior ML Engineer at Mad Street Den. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+
+Skills:
+BentoML, CNN, Angular, MLflow, Embeddings, Diffusion Models, GANs, Computer Vision, Kubeflow, Vector Search, Recommendation Systems, BM25, Python
+Education: B.Tech Machine Learning
+Education: B.E. Artificial Intelligence",0.70158166,-4.256404
+CAND_0014063,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 5.4 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Sarvam AI. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+Data Scientist at PhonePe. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+Data Science, LLMs, MLOps, Weights & Biases, Accounting, NLP, Diffusion Models, FAISS, Learning to Rank, TTS, QLoRA, Machine Learning, YOLO, Go, BM25, Prompt Engineering, ASR
+Education: B.E. Data Science",0.6984459,-4.2571487
+CAND_0014683,"Current title: Senior Software Engineer (ML)
+Summary: Data scientist / ML engineer with 5.6 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Senior Software Engineer (ML) at Rephrase.ai. Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+AI Research Engineer at Dream11. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+Feature Engineering, Content Writing, QLoRA, Deep Learning, ASR, Object Detection, BentoML, Weights & Biases, FAISS, MLflow, Terraform, pgvector, GCP, Image Classification
+Education: B.E. Artificial Intelligence",0.6810131,-4.26054
+CAND_0085557,"Current title: Data Scientist
+Summary: Data scientist / ML engineer with 3.1 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Data Scientist at Rephrase.ai. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+Machine Learning, LLMs, Feature Engineering, Weaviate, Redux, Semantic Search, RAG, Forecasting, GANs, Speech Recognition, Fine-tuning LLMs, pgvector, ASR
+Education: B.Sc Computer Science",0.73939705,-4.2809806
+CAND_0010541,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 6.2 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Wysa. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+Junior ML Engineer at Wysa. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+Pinecone, GANs, Weaviate, Computer Vision, TTS, MLOps, Data Science, LoRA, Python, Feature Engineering, Java, YOLO, BM25, Qdrant, Scrum, NLP
+Education: B.Tech Computer Science
+Education: M.Sc Computer Engineering",0.68874437,-4.283037
+CAND_0014715,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 4.2 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Saarthi.ai. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+AI Specialist at Wipro. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+Python, BM25, Sales, Machine Learning, TTS, Reinforcement Learning, CNN, Embeddings, Statistical Modeling, Salesforce CRM, Object Detection, LoRA, Kafka, Diffusion Models, Computer Vision, Project Management, MLOps, Deep Learning
+Education: M.Sc Machine Learning
+Education: M.S. Computer Science",0.7158642,-4.285304
+CAND_0081086,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 5.2 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role — closer to retrieval, LLMs, and modern ranking systems.
+
+Experience:
+AI Specialist at Observe.AI. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+Senior Software Engineer (ML) at Nykaa. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+
+Skills:
+Tally, BentoML, Kubeflow, MLflow, Time Series, pgvector, Weaviate, Scrum, Weights & Biases, Forecasting, Embeddings, Prompt Engineering, Haystack, LLMs, Python
+Education: Ph.D Data Science",0.69984823,-4.290723
+CAND_0061156,"Current title: Senior Software Engineer (ML)
+Summary: Data scientist / ML engineer with 6.0 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Senior Software Engineer (ML) at Sarvam AI. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Junior ML Engineer at Unacademy. Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+
+Skills:
+Airflow, OpenSearch, Weaviate, pgvector, LangChain, ASR, scikit-learn, Python, GANs, OpenCV, Information Retrieval, Data Science, Image Classification, Pinecone
+Education: B.E. Data Science",0.71048653,-4.2951894
+CAND_0011643,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 4.2 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role — closer to retrieval, LLMs, and modern ranking systems.
+
+Experience:
+AI Research Engineer at Swiggy. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+Senior Software Engineer (ML) at Saarthi.ai. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+
+Skills:
+Pinecone, Illustrator, Image Classification, Prompt Engineering, Forecasting, Hadoop, LlamaIndex, GANs, LLMs, Apache Flink, BentoML, CNN, FAISS, TTS, Django
+Education: Ph.D Computer Engineering",0.71694076,-4.2972584
+CAND_0079176,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 5.3 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Haptik. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Specialist at PolicyBazaar. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+
+Skills:
+Haystack, NLP, Sentence Transformers, Java, Pinecone, Image Classification, LLMs, Statistical Modeling, YOLO, Qdrant, Time Series, dbt
+Education: M.Tech Machine Learning",0.69513977,-4.3093157
+CAND_0060257,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 5.8 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Paytm. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+AI Research Engineer at CRED. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+Recommendation Systems, Diffusion Models, BigQuery, Terraform, Vector Search, Milvus, Prompt Engineering, GANs, Data Science, SQL, LangChain, Next.js, OpenSearch, Weaviate, Feature Engineering, MLflow
+Education: M.Tech Mechanical Engineering
+Education: M.E. Statistics",0.7186453,-4.3165603
+CAND_0051310,"Current title: Computer Vision Engineer
+Summary: Data scientist / ML engineer with 3.5 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Computer Vision Engineer at Haptik. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+OpenCV, Object Detection, Computer Vision, Elasticsearch, Time Series, Feature Engineering, TTS, Hadoop, Python, Hugging Face Transformers, Vector Search, Machine Learning, Embeddings, ASR, Statistical Modeling
+Education: M.Tech Artificial Intelligence",0.6949894,-4.32553
+CAND_0058412,"Current title: Senior Software Engineer (ML)
+Summary: Data scientist / ML engineer with 6.6 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role — closer to retrieval, LLMs, and modern ranking systems.
+
+Experience:
+Senior Software Engineer (ML) at InMobi. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Specialist at Nykaa. Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+Junior ML Engineer at BYJU'S. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Research Engineer at Meesho. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+Embeddings, Speech Recognition, Data Science, Object Detection, Milvus, Time Series, gRPC, Statistical Modeling, Webpack, Fine-tuning LLMs, Weights & Biases, Reinforcement Learning, RAG, Prompt Engineering, OpenCV, Machine Learning, TensorFlow
+Education: B.Tech Machine Learning",0.7456112,-4.338127
+CAND_0025939,"Current title: Data Scientist
+Summary: Data scientist / ML engineer with 4.4 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. Most of my recent work has been on predictive modeling for customer-facing problems — churn, conversion, lifetime value. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Data Scientist at PolicyBazaar. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+AI Specialist at Tech Mahindra. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+Fine-tuning LLMs, YOLO, MLOps, TTS, Statistical Modeling, MLflow, Recommendation Systems, Pinecone, Hugging Face Transformers, Reinforcement Learning, Semantic Search, Django, Data Science
+Education: Ph.D Machine Learning",0.6827946,-4.367508
+CAND_0024620,"Current title: AI Engineer
+Summary: Machine learning engineer with 5.9 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. I care a lot about evaluation rigor — too many teams ship models without offline benchmarks they trust. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.
+
+Experience:
+AI Engineer at PharmEasy. Owned the ranking layer for an e-commerce search product, evolving it from a hand-tuned scoring function to a learning-to-rank model over 9 months. Designed the relevance labeling pipeline (mix of click-through data and explicit human judgments), the feature pipeline, and the training/eval workflow. Most of the work was infrastructure and data quality — the modeling part was almost the easy bit. Final model improved revenue-per-search by 12%.
+NLP Engineer at Glance. Built and operated production ML pipelines using MLflow for experiment tracking, Kubeflow for orchestration, and our internal feature store. My main project was a churn prediction model that's now used by the customer success team to prioritize outreach. Designed the model monitoring stack: data drift detection, prediction distribution checks, and alerting. Mentored a junior engineer through their first end-to-end ML project last year.
+Recommendation Systems Engineer at Saarthi.ai. Built and operated production ML pipelines using MLflow for experiment tracking, Kubeflow for orchestration, and our internal feature store. My main project was a churn prediction model that's now used by the customer success team to prioritize outreach. Designed the model monitoring stack: data drift detection, prediction distribution checks, and alerting. Mentored a junior engineer through their first end-to-end ML project last year.
+
+Skills:
+Statistical Modeling, Object Detection, Semantic Search, BM25, Information Retrieval, Prompt Engineering, Diffusion Models, Feature Engineering, React, Python, LlamaIndex, PEFT, Recommendation Systems, Elasticsearch, QLoRA, Haystack
+Education: M.Sc Information Technology",0.70224947,-4.383456
+CAND_0048166,"Current title: ML Engineer
+Summary: Data scientist / ML engineer with 5.2 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+ML Engineer at Aganitha. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+ML Engineer at Sarvam AI. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+AI Specialist at BYJU'S. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+Haystack, Image Classification, Reinforcement Learning, MongoDB, Pinecone, Rust, Milvus, Recommendation Systems, Object Detection, Salesforce CRM, CNN, Qdrant, Prompt Engineering
+Education: M.S. Data Science",0.68829936,-4.390054
+CAND_0020350,"Current title: AI Engineer
+Summary: Machine learning engineer with 5.8 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, my main project for the last 18 months has been the recommendation system that powers our discovery feed. I've learned that most retrieval problems are actually evaluation problems in disguise. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.
+
+Experience:
+AI Engineer at Zoho. Built and operated production ML pipelines using MLflow for experiment tracking, Kubeflow for orchestration, and our internal feature store. My main project was a churn prediction model that's now used by the customer success team to prioritize outreach. Designed the model monitoring stack: data drift detection, prediction distribution checks, and alerting. Mentored a junior engineer through their first end-to-end ML project last year.
+AI Engineer at InMobi. Built and operated production ML pipelines using MLflow for experiment tracking, Kubeflow for orchestration, and our internal feature store. My main project was a churn prediction model that's now used by the customer success team to prioritize outreach. Designed the model monitoring stack: data drift detection, prediction distribution checks, and alerting. Mentored a junior engineer through their first end-to-end ML project last year.
+
+Skills:
+Content Writing, MLOps, NLP, GANs, LoRA, LLMs, Tally, PEFT, FAISS, Fine-tuning LLMs, BM25, Vector Search, Diffusion Models, Sentence Transformers, Apache Beam
+Education: M.Tech Computer Engineering",0.70299995,-4.3905306
+CAND_0048265,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 4.3 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Niramai. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+Junior ML Engineer at Observe.AI. Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+
+Skills:
+RAG, Forecasting, Computer Vision, Rust, Scrum, TTS, YOLO, Project Management, Machine Learning, CNN, LoRA, Haystack, LLMs, Kubeflow, Weights & Biases, Redux, Image Classification
+Education: B.Tech Computer Science",0.70197546,-4.405388
+CAND_0029220,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 3.6 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. Most of my recent work has been on predictive modeling for customer-facing problems — churn, conversion, lifetime value. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Unacademy. Contributed to ML feature engineering and model deployment for a fraud-detection product. My main role was engineering: building the Flask-based prediction API, integrating with the feature store, and writing the model-serving observability layer. I worked closely with senior data scientists but my own modeling work was secondary — I was the production-side engineer.
+Junior ML Engineer at Infosys. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+Data Scientist at Rephrase.ai. Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+
+Skills:
+scikit-learn, OpenSearch, PyTorch, CNN, FAISS, Semantic Search, TTS, Object Detection, MLflow, Webpack
+Education: B.Sc Computer Engineering",0.68562657,-4.4062247
+CAND_0046278,"Current title: Senior Software Engineer (ML)
+Summary: Data scientist / ML engineer with 4.6 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role — closer to retrieval, LLMs, and modern ranking systems.
+
+Experience:
+Senior Software Engineer (ML) at Dream11. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Research Engineer at Freshworks. Worked on customer-facing predictive modeling for an e-commerce platform — churn prediction, conversion likelihood, lifetime value estimation. Used scikit-learn and XGBoost; main models were gradient-boosted trees with ~80 hand-engineered features. The work was split roughly 60/40 between modeling and data prep / SQL. The churn model is now used by the retention team, though my role was more on the modeling side than the productionization.
+
+Skills:
+CNN, NLP, Haystack, ETL, Object Detection, Reinforcement Learning, Fine-tuning LLMs, Marketing, GANs, Embeddings, YOLO, Machine Learning, Sentence Transformers, MLflow, Feature Engineering
+Education: M.S. Machine Learning
+Education: B.Sc Artificial Intelligence",0.7166259,-4.407083
+CAND_0001819,"Current title: ML Engineer
+Summary: Data scientist / ML engineer with 4.4 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+ML Engineer at Genpact AI. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+Computer Vision Engineer at Saarthi.ai. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+Apache Flink, Object Detection, Weaviate, PyTorch, Recommendation Systems, Speech Recognition, Forecasting, RAG, Statistical Modeling, Databricks, Terraform, BentoML, pgvector, Feature Engineering, Computer Vision, Flask, NLP, Image Classification
+Education: M.Tech Information Technology
+Education: M.Tech Computer Science",0.7081005,-4.4101334
+CAND_0038206,"Current title: Data Scientist
+Summary: Data scientist / ML engineer with 3.5 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Data Scientist at BYJU'S. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+Senior Software Engineer (ML) at PharmEasy. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+PyTorch, NLP, Fine-tuning LLMs, Statistical Modeling, Kubernetes, Figma, Salesforce CRM, Data Science, LlamaIndex, Flask, Reinforcement Learning, OpenCV, Semantic Search, Hugging Face Transformers, MLflow, CNN, TTS, Embeddings
+Education: M.Sc Computer Science
+Education: B.Sc Information Technology",0.69920784,-4.4127693
+CAND_0001218,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 6.4 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role — closer to retrieval, LLMs, and modern ranking systems.
+
+Experience:
+AI Specialist at Nykaa. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Senior Software Engineer (ML) at Paytm. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Computer Vision Engineer at Tech Mahindra. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Computer Vision Engineer at Dream11. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+
+Skills:
+ASR, pgvector, OpenCV, scikit-learn, Tailwind, OpenSearch, NLP, SQL, LlamaIndex, Accounting, Object Detection, Speech Recognition, RAG, Semantic Search, Data Science, TTS, PowerPoint, QLoRA
+Education: B.Sc Data Science",0.7291653,-4.4390516
+CAND_0000981,"Current title: ML Engineer
+Summary: Data scientist / ML engineer with 6.4 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+ML Engineer at Wysa. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Senior Software Engineer (ML) at Zoho. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+
+Skills:
+Semantic Search, Computer Vision, Image Classification, SQL, Data Science, scikit-learn, GANs, pgvector, Pinecone, Next.js, Airflow, OpenSearch, MLflow, OpenCV
+Education: B.E. Computer Engineering",0.70569396,-4.439194
+CAND_0080315,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 4.1 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Sarvam AI. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+ML Engineer at Aganitha. Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+
+Skills:
+LangChain, Object Detection, Python, Prompt Engineering, FastAPI, Image Classification, BentoML, Tally, PEFT, FAISS, Diffusion Models, NLP, Hugging Face Transformers, Elasticsearch
+Education: M.Sc Artificial Intelligence",0.6926449,-4.452684
+CAND_0069638,"Current title: Computer Vision Engineer
+Summary: Data scientist / ML engineer with 6.2 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Computer Vision Engineer at Swiggy. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Research Engineer at Zomato. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Computer Vision Engineer at Nykaa. Built NLP pipelines for sentiment analysis and document classification — primarily for an internal feedback-analytics dashboard. Started with sklearn-based bag-of-words models, then moved to transformer-based classifiers (DistilBERT) for the harder classes. Comfortable with PyTorch and Hugging Face but most of my training experience has been on small datasets and pre-trained model fine-tuning, not from-scratch model design.
+
+Skills:
+Time Series, Hadoop, Semantic Search, Prompt Engineering, Feature Engineering, Fine-tuning LLMs, ASR, PEFT, Image Classification, Pinecone, PyTorch
+Education: M.Sc Computer Science",0.6927576,-4.46445
+CAND_0055992,"Current title: AI Engineer
+Summary: Machine learning engineer with 6.8 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. I care a lot about evaluation rigor — too many teams ship models without offline benchmarks they trust. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.
+
+Experience:
+AI Engineer at CRED. Implemented a RAG-based customer support chatbot integrated with our existing ticketing system. Built the document ingestion pipeline (chunking, embedding via OpenAI embeddings, storing in Pinecone) and the answer-generation layer (initially GPT-4, then a fine-tuned smaller model for cost control). Designed the evaluation framework with both automatic metrics (BLEU, ROUGE) and human-in-the-loop quality scores. Deployment cut average ticket resolution time by 31% for the supported categories.
+Senior Data Scientist at Aganitha. Developed a semantic search feature for an internal knowledge base of ~500K documents. Used sentence-transformers (all-MiniLM-L6-v2 initially, later upgraded to bge-base) with FAISS for fast nearest-neighbor retrieval. Designed the query expansion module that handles vocabulary mismatch between user queries and document terms. Reported search-relevance improvement of 35% over the prior Elasticsearch BM25 setup, validated through human relevance judgments.
+AI Engineer at Observe.AI. Built a content recommendation system serving 10M+ users that combined collaborative filtering with content-based ranking. The system uses item-item similarity (via sentence-transformer embeddings) for cold starts and a gradient-boosted model trained on engagement signals for warm users. Most of my time went into the feature pipeline (~200 features) and the A/B testing infrastructure. The launch improved 7-day retention by 6% and time spent per session by 14%.
+Machine Learning Engineer at Ola. Owned the ranking layer for an e-commerce search product, evolving it from a hand-tuned scoring function to a learning-to-rank model over 9 months. Designed the relevance labeling pipeline (mix of click-through data and explicit human judgments), the feature pipeline, and the training/eval workflow. Most of the work was infrastructure and data quality — the modeling part was almost the easy bit. Final model improved revenue-per-search by 12%.
+
+Skills:
+Information Retrieval, MLflow, FAISS, RAG, Feature Engineering, Data Science, LangChain, SQL, OpenSearch, Embeddings, Prompt Engineering, Accounting, Vue.js, Fine-tuning LLMs, Milvus, Deep Learning
+Education: M.E. Computer Engineering
+Education: B.Tech Information Technology",0.6997462,-4.469751
+CAND_0016267,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 3.6 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Freshworks. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+Reinforcement Learning, PyTorch, Sentence Transformers, LLMs, JavaScript, YOLO, LlamaIndex, Time Series, TTS, Image Classification, Learning to Rank, Prompt Engineering, Speech Recognition, Information Retrieval, Statistical Modeling, OpenSearch, PowerPoint, Spark
+Education: M.Sc Artificial Intelligence",0.7246951,-4.4719186
+CAND_0073007,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 5.8 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Aganitha. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Junior ML Engineer at Glance. Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+
+Skills:
+Milvus, BentoML, PyTorch, Embeddings, Computer Vision, Content Writing, Forecasting, Speech Recognition, Statistical Modeling, Reinforcement Learning, FAISS, MLflow, OpenCV, pgvector
+Education: M.S. Information Technology",0.7140877,-4.475632
+CAND_0078856,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 3.3 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. Most of my recent work has been on predictive modeling for customer-facing problems — churn, conversion, lifetime value. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Infosys. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+GANs, Weaviate, Java, Milvus, pgvector, Recommendation Systems, Speech Recognition, Fine-tuning LLMs, Microservices, Vector Search, Deep Learning, scikit-learn, Diffusion Models, TTS
+Education: M.E. Data Science",0.6980988,-4.488525
+CAND_0026410,"Current title: Computer Vision Engineer
+Summary: Data scientist / ML engineer with 3.2 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Computer Vision Engineer at Aganitha. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+ML Engineer at Mad Street Den. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+Diffusion Models, Fine-tuning LLMs, LlamaIndex, Hugging Face Transformers, Airflow, MLflow, ASR, MLOps, Milvus, LoRA, TTS, Data Science, Learning to Rank, Image Classification, OpenSearch, PEFT, Feature Engineering
+Education: B.E. Computer Science",0.7318879,-4.4954066
+CAND_0008628,"Current title: AI Specialist
+Summary: Data scientist / ML engineer with 3.2 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Specialist at Ola. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+AI Specialist at Locobuzz. Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+
+Skills:
+Weights & Biases, BentoML, OpenCV, Object Detection, Time Series, TTS, gRPC, Weaviate, Agile, Recommendation Systems, PowerPoint, Milvus, Qdrant, MLOps, Feature Engineering
+Education: M.Sc Computer Science",0.7205034,-4.502071
+CAND_0077552,"Current title: Senior Software Engineer (ML)
+Summary: Data scientist / ML engineer with 3.4 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Senior Software Engineer (ML) at Tech Mahindra. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+ML Engineer at HCL. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+
+Skills:
+MLOps, TTS, Statistical Modeling, GANs, Next.js, React, Milvus, QLoRA, LangChain, Object Detection, CNN, Pinecone, Hugging Face Transformers
+Education: M.Sc Computer Science
+Education: M.S. Computer Science",0.7213686,-4.5066643
+CAND_0026362,"Current title: Data Scientist
+Summary: Data scientist / ML engineer with 5.0 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. Most of my recent work has been on predictive modeling for customer-facing problems — churn, conversion, lifetime value. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+Data Scientist at PhonePe. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Senior Software Engineer (ML) at Ola. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+Learning to Rank, YOLO, BM25, MongoDB, Weaviate, Image Classification, Data Science, TTS, CI/CD, Time Series, Pinecone, Go, Microservices
+Education: M.E. Computer Science
+Education: M.E. Machine Learning",0.72861856,-4.510103
+CAND_0033179,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 6.9 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side — mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role — closer to retrieval, LLMs, and modern ranking systems.
+
+Experience:
+AI Research Engineer at Wipro. Built recommendation-style features at a mid-stage startup — lighter weight than ranking systems at FAANG, but production. Used a combination of collaborative filtering (matrix factorization in implicit-feedback library) and gradient-boosted re-ranking over engagement signals. Pure ML side of the work; production deployment was handled by the platform team.
+Senior Software Engineer (ML) at CRED. Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+
+Skills:
+FastAPI, Weights & Biases, Hugging Face Transformers, OpenSearch, Diffusion Models, Speech Recognition, PyTorch, MLOps, PowerPoint, scikit-learn, Airflow, Fine-tuning LLMs, Docker, MLflow, Information Retrieval, YOLO
+Education: M.S. Statistics",0.73447096,-4.522104
+CAND_0000705,"Current title: AI Research Engineer
+Summary: Data scientist / ML engineer with 3.6 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering — get serious about LLMs and retrieval beyond the surface level.
+
+Experience:
+AI Research Engineer at Zomato. Built computer vision models for our product's image moderation feature using PyTorch — fine-tuned ResNet variants on a labeled dataset of ~200K images. Set up the training pipeline (data loading, augmentation, evaluation) and the inference service. Most of my project work has been in CV; I'm now interested in transitioning toward NLP/LLM work but my professional experience there is limited.
+Junior ML Engineer at Flipkart. Worked on time-series forecasting models for supply-chain demand prediction at a logistics company. Built models in Prophet, LightGBM, and (for one project) a small LSTM — the LightGBM model ended up shipping. Also ran some reinforcement learning experiments for dynamic pricing but those didn't make it to production. The work was a mix of modeling, analysis, and stakeholder communication with the operations team.
+
+Skills:
+LoRA, Elasticsearch, OpenCV, GANs, TTS, RAG, Data Science, NLP, BentoML, PEFT, Statistical Modeling, Computer Vision, Haystack, Diffusion Models, Redis
+Education: M.S. Computer Science
+Education: M.Tech Artificial Intelligence",0.6835787,-4.5254126
+CAND_0091534,"Current title: AI Engineer
+Summary: Machine learning engineer with 7.2 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. Along the way I've gotten comfortable with the operational side — A/B testing, drift monitoring, retraining schedules. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.
+
+Experience:
+AI Engineer at Flipkart. Owned the ranking layer for an e-commerce search product, evolving it from a hand-tuned scoring function to a learning-to-rank model over 9 months. Designed the relevance labeling pipeline (mix of click-through data and explicit human judgments), the feature pipeline, and the training/eval workflow. Most of the work was infrastructure and data quality — the modeling part was almost the easy bit. Final model improved revenue-per-search by 12%.
+Machine Learning Engineer at Adobe. Developed a semantic search feature for an internal knowledge base of ~500K documents. Used sentence-transformers (all-MiniLM-L6-v2 initially, later upgraded to bge-base) with FAISS for fast nearest-neighbor retrieval. Designed the query expansion module that handles vocabulary mismatch between user queries and document terms. Reported search-relevance improvement of 35% over the prior Elasticsearch BM25 setup, validated through human relevance judgments.
+NLP Engineer at Glance. Implemented a RAG-based customer support chatbot integrated with our existing ticketing system. Built the document ingestion pipeline (chunking, embedding via OpenAI embeddings, storing in Pinecone) and the answer-generation layer (initially GPT-4, then a fine-tuned smaller model for cost control). Designed the evaluation framework with both automatic metrics (BLEU, ROUGE) and human-in-the-loop quality scores. Deployment cut average ticket resolution time by 31% for the supported categories.
+
+Skills:
+Hugging Face Transformers, scikit-learn, Diffusion Models, Qdrant, Sentence Transformers, RAG, Data Science, LlamaIndex, Kubeflow, LangChain
+Education: M.Tech Computer Engineering",0.7088584,-4.5504866
